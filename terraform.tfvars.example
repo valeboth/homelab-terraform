@@ -1,0 +1,6 @@
+proxmox_endpoint  = "https://PROXMOX-HOST:8006/"
+proxmox_api_token = "terraform@pve!provider=YOUR-TOKEN-HERE"
+
+# optional, these already have defaults:
+# target_node    = "pve"
+# network_prefix = "192.168.1"
